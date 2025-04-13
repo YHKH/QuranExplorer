@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+HEAD
 # Welcome to Git Lab
-=======
+
 # Quran Explorer
 
 A Python script to explore the Quran with Arabic text, English transliteration, and English translation. Features include viewing specific verses, entire chapters, and searching text in both Arabic and English.
